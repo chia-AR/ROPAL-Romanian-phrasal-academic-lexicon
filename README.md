@@ -11,9 +11,9 @@ The lack of NLP based research studies on academic writing in Romania results in
 If you find our work useful, please cite us:
 
 ```
-@inproceedings{chitez2024automatic,
+@inproceedings{chitez2024ropal,
   author="Chitez, Madalina and Bucur, Ana-Maria and Dinca, Andreea and Rogobete, Roxana",
-  title="Towards Building the Readability Platform for Children’s Literature in the Romanian Language",
+  title="Towards a Romanian phrasal academic lexicon",
   booktitle="Proceedings of the 6th International Conference on Computational Linguistics in Bulgaria (CLIB 2024)",
   year="2024"
 }
